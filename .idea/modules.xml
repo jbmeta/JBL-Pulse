@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HackGSUHarman.iml" filepath="$PROJECT_DIR$/HackGSUHarman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TarsosDSP/TarsosDSP.iml" filepath="$PROJECT_DIR$/TarsosDSP/TarsosDSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libPulseSDK/libPulseSDK.iml" filepath="$PROJECT_DIR$/libPulseSDK/libPulseSDK.iml" />
+    </modules>
+  </component>
+</project>
